@@ -1,5 +1,5 @@
 # Twitter
-Sentiment Analysis with Twitter data and PySpark
+<strong>Sentiment Analysis with Twitter data and PySpark</strong>
 
 Download Dataset [here](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
